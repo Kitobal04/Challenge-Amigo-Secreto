@@ -31,10 +31,4 @@ El proyecto utiliza HTML, CSS y JavaScript para gestionar la interfaz y la lógi
    - El usuario hace clic en el botón de "Sortear Amigo".
    - El sistema selecciona aleatoriamente un nombre de la lista de amigos y lo muestra en la sección de resultados.
 
-## Instrucciones de Uso
 
-### Instalación
-
-1. Clona este repositorio a tu máquina local:
-   ```bash
-   git clone 
